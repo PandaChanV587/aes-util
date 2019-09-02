@@ -1,10 +1,10 @@
-package pers.pandachan.aesutil;
+package com.github.pandachanv587.aesutil;
 
+import com.github.pandachanv587.aesutil.exception.AESConfigParamsError;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import pers.pandachan.aesutil.exception.AESConfigParamsError;
 
 @Data
 @Builder

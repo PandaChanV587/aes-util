@@ -1,10 +1,10 @@
-package pers.pandachan.aesutil.util;
+package com.github.pandachanv587.aesutil.util;
 
-import pers.pandachan.aesutil.AESConfig;
-import pers.pandachan.aesutil.AESOperationMode;
-import pers.pandachan.aesutil.AESPaddingMode;
-import pers.pandachan.aesutil.CipherType;
-import pers.pandachan.aesutil.exception.CipherCreateError;
+import com.github.pandachanv587.aesutil.AESPaddingMode;
+import com.github.pandachanv587.aesutil.CipherType;
+import com.github.pandachanv587.aesutil.AESConfig;
+import com.github.pandachanv587.aesutil.AESOperationMode;
+import com.github.pandachanv587.aesutil.exception.CipherCreateError;
 
 import javax.crypto.Cipher;
 import javax.crypto.spec.IvParameterSpec;

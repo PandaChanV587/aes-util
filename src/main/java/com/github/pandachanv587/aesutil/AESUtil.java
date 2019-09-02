@@ -1,9 +1,9 @@
-package pers.pandachan.aesutil;
+package com.github.pandachanv587.aesutil;
 
+import com.github.pandachanv587.aesutil.exception.AESConfigParamsError;
 import org.apache.commons.codec.binary.Base64;
-import pers.pandachan.aesutil.exception.AESConfigParamsError;
-import pers.pandachan.aesutil.exception.CipherCreateError;
-import pers.pandachan.aesutil.util.CipherUtil;
+import com.github.pandachanv587.aesutil.exception.CipherCreateError;
+import com.github.pandachanv587.aesutil.util.CipherUtil;
 
 import javax.crypto.BadPaddingException;
 import javax.crypto.Cipher;

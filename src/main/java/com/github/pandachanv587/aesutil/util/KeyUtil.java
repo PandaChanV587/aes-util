@@ -1,7 +1,7 @@
-package pers.pandachan.aesutil.util;
+package com.github.pandachanv587.aesutil.util;
 
-import pers.pandachan.aesutil.AESConfig;
-import pers.pandachan.aesutil.AESLevel;
+import com.github.pandachanv587.aesutil.AESConfig;
+import com.github.pandachanv587.aesutil.AESLevel;
 
 import javax.crypto.spec.SecretKeySpec;
 import java.nio.charset.StandardCharsets;

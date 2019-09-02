@@ -1,4 +1,4 @@
-package pers.pandachan.aesutil;
+package com.github.pandachanv587.aesutil;
 
 public enum AESLevel {
 

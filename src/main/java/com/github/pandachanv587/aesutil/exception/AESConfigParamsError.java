@@ -1,4 +1,4 @@
-package pers.pandachan.aesutil.exception;
+package com.github.pandachanv587.aesutil.exception;
 
 public class AESConfigParamsError extends Exception {
 
